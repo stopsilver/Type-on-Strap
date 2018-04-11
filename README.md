@@ -49,8 +49,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-t
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-=======
-# Jekyll-theme
-New Jekyll theme
->>>>>>> dcf1d840e546008cb697aa1b561e867b65f55fc3
