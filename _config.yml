@@ -12,6 +12,7 @@ theme_settings:
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: 4594027662123a687c144e9a8765625a # Email MD5 hash
+  disqus_shortname: stopsilver
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -93,3 +94,4 @@ sass:
 plugins: [jekyll-paginate, jekyll-seo-tag]
 #theme: type-on-strap # Uncomment if using the theme as a jekyll theme gem
 exclude: ["Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", "LICENSE", "README.md", "screenshot.png"]
+
