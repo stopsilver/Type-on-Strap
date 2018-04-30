@@ -2,7 +2,7 @@
 layout: post
 title: Vectorizer
 comments: true
-tags: [ml, vectorizer]
+tags: [ML, vectorizer]
 category: ml
 ---
 
