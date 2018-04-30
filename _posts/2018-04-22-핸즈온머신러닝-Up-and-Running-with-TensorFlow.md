@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [핸즈온머신러닝] Chapter 9. Up and Running with TensorFlow
+title: '[핸즈온머신러닝] Chapter 9. Up and Running with TensorFlow'
 comments: true
 tags: [ML, HandsOnMachineLearning, tensorflow]
 category: ml
