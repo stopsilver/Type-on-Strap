@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< Updated upstream:_posts/2018-04-22-핸즈온머신러닝-Up-and-Running-with-TensorFlow.md
-title: 핸즈온머신러닝 Up and Running with TensorFlow
-=======
 title: [핸즈온머신러닝] Chapter 9. Up and Running with TensorFlow
->>>>>>> Stashed changes:_posts/2018-04-22-핸즈온머신러닝-Chapter9.md
 comments: true
 tags: [ML, HandsOnMachineLearning, tensorflow]
 category: ml
